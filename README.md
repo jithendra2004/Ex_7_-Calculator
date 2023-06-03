@@ -309,9 +309,9 @@ public class MainActivity extends AppCompatActivity {
 </manifest>
 ```
 ## Output:
-![output]()
+![output](https://github.com/jithendra2004/Ex_7_-Calculator/blob/main/71.png)
 
-![output]()
+![output](https://github.com/jithendra2004/Ex_7_-Calculator/blob/main/72.png)
 
 ## Result:
 Thus a Simple Android Application to create a calculator using Android Studio was developed and executed successfully.
